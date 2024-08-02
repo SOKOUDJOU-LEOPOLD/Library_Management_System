@@ -134,9 +134,13 @@ GET /api/registrations: Get registrations.
 ## Shelf:
 
 GET /api/shelfs:  Get the list of shelfs.
+
 POST /api/shelfs: Add a new Shelf.
+
 GET /api/shelfs/{id}: Get a shelf by id.
+
 PUT /api/shelfs/{id}: Update a shelf.
+
 DELETE /api/shelfs/{id}: Delete shelf by code. 
 
 
