@@ -21,7 +21,7 @@ RESTful API: Integrate with external applications using the REST API.
 # Installation
 To install and run the Library Management System locally, follow these steps:
 
-##Clone the repository:
+## Clone the repository:
 
 bash
 Copy code
@@ -45,7 +45,8 @@ Access the application:
 
 Open your web browser and go to http://localhost:8080.
 
-#API Endpoints
+# API Endpoints
+
 The application provides a RESTful API for managing library resources. Here are some key endpoints:
 
 ## Authors:
