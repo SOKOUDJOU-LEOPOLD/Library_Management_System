@@ -51,8 +51,11 @@ The application provides a RESTful API for managing library resources. Here are 
 ## Authors:
 
 GET /api/authors: Retrieve the list of authors whose books are registered and stored in the library.
+
 GET /api/authors/{id}/items: Retrieve items of authors by author's id.
+
 PUT /api/authors/{id}: Update author Information.
+
 DELETE /api/authors/{id}: Delete author by id.
 
 ## Items: an item can be a Book, CD/DVD, Magazins, Articles.
