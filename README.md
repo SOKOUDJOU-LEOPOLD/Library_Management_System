@@ -149,12 +149,10 @@ Return Books: Process book returns and update inventory.
 # Contributing
 We welcome contributions to the Library Management System project! If you'd like to contribute, please follow these steps:
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
 Fork the repository.
 Create a new branch for your feature or bug fix.
 Commit your changes and push the branch to your fork.
 Submit a pull request with a description of your changes.
-License
+
+# License
 This project is licensed under the MIT License. See the LICENSE file for more information.
